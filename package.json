@@ -1,0 +1,14 @@
+{
+  "name": "lumos-portfolio-contact",
+  "version": "1.0.0",
+  "description": "Portfolio email backend for Netlify Functions.",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.5"
+  },
+  "devDependencies": {
+    "netlify-cli": "^11.0.0"
+  }
+}
